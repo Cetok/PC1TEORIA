@@ -28,3 +28,4 @@ C:\Users\user\Desktop\PC1TEORIA\obj\Debug\net8.0\refint\PC1TEORIA.dll
 C:\Users\user\Desktop\PC1TEORIA\obj\Debug\net8.0\PC1TEORIA.pdb
 C:\Users\user\Desktop\PC1TEORIA\obj\Debug\net8.0\PC1TEORIA.genruntimeconfig.cache
 C:\Users\user\Desktop\PC1TEORIA\obj\Debug\net8.0\ref\PC1TEORIA.dll
+C:\Users\user\Desktop\PC1TEORIA\obj\Debug\net8.0\PC1TEORIA.sourcelink.json
