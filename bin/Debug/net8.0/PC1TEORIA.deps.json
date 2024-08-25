@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PC1TEORIA/1.0.0": {
+        "runtime": {
+          "PC1TEORIA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PC1TEORIA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
